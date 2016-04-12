@@ -10,7 +10,6 @@
  */
 
 
-boolean savePDF = false;
 int tileCount = 20;
 int actRandomSeed = 0;
 boolean showGrid = false;

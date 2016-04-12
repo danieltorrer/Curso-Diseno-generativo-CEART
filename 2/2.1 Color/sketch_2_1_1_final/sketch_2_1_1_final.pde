@@ -1,4 +1,4 @@
-/* 2.1.1 Color 
+/* 2.1.1 Color
 Exploración de colores
 */
 

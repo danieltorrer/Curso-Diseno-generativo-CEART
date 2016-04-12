@@ -47,4 +47,5 @@ void shakeColors() {
 
 void keyReleased() {
   if (key == '1') interpolateShortest = !interpolateShortest;
+  if (key == 's') saveFrame("###.png");
 }
