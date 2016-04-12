@@ -2,11 +2,11 @@
  * Dibujando figuras geometricas con el mouse
  * 	 
  * MOUSE
- * position x          : tamaño
- * position y          : grosor y numero de lineas
+ * mouseX          : tamaño
+ * mouseY          : grosor y numero de lineas
  * drag                : dibujar
  * 
- * KEYS
+ * 
  * 1-3                 : color
  * backspace           : borrar
  * s                   : png
