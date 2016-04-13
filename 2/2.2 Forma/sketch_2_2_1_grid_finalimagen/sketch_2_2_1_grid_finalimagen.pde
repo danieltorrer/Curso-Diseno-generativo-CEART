@@ -9,7 +9,7 @@
  * s                   : save png
  */
 
-int tileCount = 10;
+int tileCount = 8;
 int actRandomSeed = 0;
 boolean showGrid = false;
 
