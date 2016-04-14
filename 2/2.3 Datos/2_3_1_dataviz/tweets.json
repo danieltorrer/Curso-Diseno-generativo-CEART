@@ -1,0 +1,869 @@
+{
+  "statuses": [
+    {
+      "created_at": "Fri Apr 08 05:00:37 +0000 2016",
+      "id": 718302504593854464,
+      "id_str": "718302504593854464",
+      "text": "🌮🌮🌮 #tacos #tijuanamakesmehungry #conlimonysal @ Taco N Todo https://t.co/fs1lBcmtqU",
+      "entities": {
+        "hashtags": [
+          {
+            "text": "tacos",
+            "indices": [
+              4,
+              10
+            ]
+          },
+          {
+            "text": "tijuanamakesmehungry",
+            "indices": [
+              11,
+              32
+            ]
+          },
+          {
+            "text": "conlimonysal",
+            "indices": [
+              33,
+              46
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fs1lBcmtqU",
+            "expanded_url": "https://www.instagram.com/p/BD7UBgdndRoaEjx2NlbzahUDq1qhFVs93SXgnk0/",
+            "display_url": "instagram.com/p/BD7UBgdndRoa…",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 98978760,
+        "id_str": "98978760",
+        "name": "Sarah Carpio",
+        "screen_name": "sarahcarpio",
+        "location": "Tijuana, México",
+        "description": "Singer/songwriter/musician/graphic artist/friend/ #musicactivist #music4freedom",
+        "url": "https://t.co/OU7jDqlNJG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/OU7jDqlNJG",
+                "expanded_url": "http://www.facebook.com/sarahcarpiomusica",
+                "display_url": "facebook.com/sarahcarpiomus…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 833,
+        "friends_count": 405,
+        "listed_count": 17,
+        "created_at": "Wed Dec 23 23:05:00 +0000 2009",
+        "favourites_count": 437,
+        "utc_offset": -25200,
+        "time_zone": "Tijuana",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6228,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/460901073/photo_2.JPG",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/460901073/photo_2.JPG",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/702369765088731136/LcxwrAxf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/702369765088731136/LcxwrAxf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/98978760/1456292977",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          32.50519407,
+          -116.99895857
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -116.99895857,
+          32.50519407
+        ]
+      },
+      "place": {
+        "id": "2400156d6de057e3",
+        "url": "https://api.twitter.com/1.1/geo/id/2400156d6de057e3.json",
+        "place_type": "city",
+        "name": "Tijuana",
+        "full_name": "Tijuana, Baja California",
+        "country_code": "MX",
+        "country": "México",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -117.2984211,
+                32.0982919
+              ],
+              [
+                -116.5597831,
+                32.0982919
+              ],
+              [
+                -116.5597831,
+                32.567461
+              ],
+              [
+                -117.2984211,
+                32.567461
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Wed Apr 06 19:15:22 +0000 2016",
+      "id": 717792837165838336,
+      "id_str": "717792837165838336",
+      "text": "#nicodice asi fue la noche en la lajustina #graciasmuchas #tijuanamakesmehungry nos vemos en la… https://t.co/JrgzugJz8J",
+      "entities": {
+        "hashtags": [
+          {
+            "text": "nicodice",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "text": "graciasmuchas",
+            "indices": [
+              43,
+              57
+            ]
+          },
+          {
+            "text": "tijuanamakesmehungry",
+            "indices": [
+              58,
+              79
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JrgzugJz8J",
+            "expanded_url": "https://www.instagram.com/p/BD3sQRqkfyZ/",
+            "display_url": "instagram.com/p/BD3sQRqkfyZ/",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 929004626,
+        "id_str": "929004626",
+        "name": "Nico Mejia",
+        "screen_name": "NicoMejiaT",
+        "location": "",
+        "description": "cocinero colimote",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1205,
+        "friends_count": 162,
+        "listed_count": 18,
+        "created_at": "Tue Nov 06 04:39:19 +0000 2012",
+        "favourites_count": 1472,
+        "utc_offset": -18000,
+        "time_zone": "Guadalajara",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1681,
+        "lang": "es",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/451956924343279616/6MpwQKwV_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/451956924343279616/6MpwQKwV_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/929004626/1396589901",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          32.54568377,
+          -116.97721118
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -116.97721118,
+          32.54568377
+        ]
+      },
+      "place": {
+        "id": "a592bd6ceb1319f7",
+        "url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json",
+        "place_type": "city",
+        "name": "San Diego",
+        "full_name": "San Diego, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -117.282538,
+                32.53962
+              ],
+              [
+                -116.9274403,
+                32.53962
+              ],
+              [
+                -116.9274403,
+                33.0804044
+              ],
+              [
+                -117.282538,
+                33.0804044
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Wed Apr 06 06:55:10 +0000 2016",
+      "id": 717606558318854144,
+      "id_str": "717606558318854144",
+      "text": "#nicodice #2doaniversario lajustina #tijuanamakesmehungry #felicidades @ La Justina https://t.co/7vPMmKcvPy",
+      "entities": {
+        "hashtags": [
+          {
+            "text": "nicodice",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "text": "2doaniversario",
+            "indices": [
+              10,
+              25
+            ]
+          },
+          {
+            "text": "tijuanamakesmehungry",
+            "indices": [
+              36,
+              57
+            ]
+          },
+          {
+            "text": "felicidades",
+            "indices": [
+              58,
+              70
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7vPMmKcvPy",
+            "expanded_url": "https://www.instagram.com/p/BD2Xi6bEf09/",
+            "display_url": "instagram.com/p/BD2Xi6bEf09/",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 929004626,
+        "id_str": "929004626",
+        "name": "Nico Mejia",
+        "screen_name": "NicoMejiaT",
+        "location": "",
+        "description": "cocinero colimote",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1205,
+        "friends_count": 162,
+        "listed_count": 18,
+        "created_at": "Tue Nov 06 04:39:19 +0000 2012",
+        "favourites_count": 1472,
+        "utc_offset": -18000,
+        "time_zone": "Guadalajara",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1681,
+        "lang": "es",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/451956924343279616/6MpwQKwV_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/451956924343279616/6MpwQKwV_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/929004626/1396589901",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          32.53379337,
+          -117.03670327
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -117.03670327,
+          32.53379337
+        ]
+      },
+      "place": {
+        "id": "2400156d6de057e3",
+        "url": "https://api.twitter.com/1.1/geo/id/2400156d6de057e3.json",
+        "place_type": "city",
+        "name": "Tijuana",
+        "full_name": "Tijuana, Baja California",
+        "country_code": "MX",
+        "country": "México",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -117.2984211,
+                32.0982919
+              ],
+              [
+                -116.5597831,
+                32.0982919
+              ],
+              [
+                -116.5597831,
+                32.567461
+              ],
+              [
+                -117.2984211,
+                32.567461
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Tue Apr 05 22:59:32 +0000 2016",
+      "id": 717486858612129792,
+      "id_str": "717486858612129792",
+      "text": "#nicodice a punto de iniciar el #2doaniversario de lajustina en Tj #tijuanamakesmehungry… https://t.co/a6btuPWj4t",
+      "entities": {
+        "hashtags": [
+          {
+            "text": "nicodice",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "text": "2doaniversario",
+            "indices": [
+              32,
+              47
+            ]
+          },
+          {
+            "text": "tijuanamakesmehungry",
+            "indices": [
+              67,
+              88
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/a6btuPWj4t",
+            "expanded_url": "https://www.instagram.com/p/BD1hHLDEf79/",
+            "display_url": "instagram.com/p/BD1hHLDEf79/",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 929004626,
+        "id_str": "929004626",
+        "name": "Nico Mejia",
+        "screen_name": "NicoMejiaT",
+        "location": "",
+        "description": "cocinero colimote",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1205,
+        "friends_count": 162,
+        "listed_count": 18,
+        "created_at": "Tue Nov 06 04:39:19 +0000 2012",
+        "favourites_count": 1472,
+        "utc_offset": -18000,
+        "time_zone": "Guadalajara",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1681,
+        "lang": "es",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/451956924343279616/6MpwQKwV_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/451956924343279616/6MpwQKwV_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/929004626/1396589901",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          32.53379337,
+          -117.03670327
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -117.03670327,
+          32.53379337
+        ]
+      },
+      "place": {
+        "id": "2400156d6de057e3",
+        "url": "https://api.twitter.com/1.1/geo/id/2400156d6de057e3.json",
+        "place_type": "city",
+        "name": "Tijuana",
+        "full_name": "Tijuana, Baja California",
+        "country_code": "MX",
+        "country": "México",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -117.2984211,
+                32.0982919
+              ],
+              [
+                -116.5597831,
+                32.0982919
+              ],
+              [
+                -116.5597831,
+                32.567461
+              ],
+              [
+                -117.2984211,
+                32.567461
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Mon Apr 04 02:21:55 +0000 2016",
+      "id": 716813016378040320,
+      "id_str": "716813016378040320",
+      "text": "Uffff Ceviche Navio #TijuanaMakesMeHungry #Navío #Tijuas #CevicheNavío (@ Navio) https://t.co/l77YrxX4v7 https://t.co/sktkvCmRjI",
+      "entities": {
+        "hashtags": [
+          {
+            "text": "TijuanaMakesMeHungry",
+            "indices": [
+              20,
+              41
+            ]
+          },
+          {
+            "text": "Navío",
+            "indices": [
+              42,
+              48
+            ]
+          },
+          {
+            "text": "Tijuas",
+            "indices": [
+              49,
+              56
+            ]
+          },
+          {
+            "text": "CevicheNavío",
+            "indices": [
+              57,
+              70
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/l77YrxX4v7",
+            "expanded_url": "https://www.swarmapp.com/c/hf0e8K4e53K",
+            "display_url": "swarmapp.com/c/hf0e8K4e53K",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 716813016076042240,
+            "id_str": "716813016076042240",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/media/CfKho-mWwAABrn6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CfKho-mWwAABrn6.jpg",
+            "url": "https://t.co/sktkvCmRjI",
+            "display_url": "pic.twitter.com/sktkvCmRjI",
+            "expanded_url": "http://twitter.com/Perzabaljr/status/716813016378040320/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 1365,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 800,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 453,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "truncated": false,
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 97950397,
+        "id_str": "97950397",
+        "name": "A®turo Pe®zabal",
+        "screen_name": "Perzabaljr",
+        "location": "Tijuana,Baja California,México",
+        "description": "You live Once but...if you do it right Once is enough...",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1623,
+        "friends_count": 2026,
+        "listed_count": 14,
+        "created_at": "Sat Dec 19 18:13:18 +0000 2009",
+        "favourites_count": 13665,
+        "utc_offset": -25200,
+        "time_zone": "Tijuana",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 21280,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/576248698562187264/p1HvEbbI_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/576248698562187264/p1HvEbbI_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/97950397/1449122474",
+        "profile_link_color": "BD0D0D",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          32.52336182,
+          -117.0262295
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -117.0262295,
+          32.52336182
+        ]
+      },
+      "place": {
+        "id": "2400156d6de057e3",
+        "url": "https://api.twitter.com/1.1/geo/id/2400156d6de057e3.json",
+        "place_type": "city",
+        "name": "Tijuana",
+        "full_name": "Tijuana, Baja California",
+        "country_code": "MX",
+        "country": "México",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -117.2984211,
+                32.0982919
+              ],
+              [
+                -116.5597831,
+                32.0982919
+              ],
+              [
+                -116.5597831,
+                32.567461
+              ],
+              [
+                -117.2984211,
+                32.567461
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.038,
+    "max_id": 718302504593854464,
+    "max_id_str": "718302504593854464",
+    "query": "%23tijuanamakesmehungry",
+    "refresh_url": "?since_id=718302504593854464&q=%23tijuanamakesmehungry&geocode=32.525%2C-117%2C5km&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
