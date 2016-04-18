@@ -11,7 +11,10 @@
  * KEYS
  * 1-2                 : switch interpolation style
  */
- 
+boolean grabando = false;
+
+
+
 int tileCountX = 10;
 int tileCountY = 5;
 
@@ -72,6 +75,10 @@ void draw() {
     }
   }
 
+  if( grabando == true){
+    saveFrame("frames/imagen####.jpg");
+    println("grabando");
+  }
 } 
 
 void mouseReleased() {
@@ -86,6 +93,7 @@ void shakeColors() {
 }
 
 void keyReleased() {
-  if (key == '1') interpolateShortest = !interpolateShortest;
-  if (key == 's') saveFrame("###.png");
+  if(key == 'r'){
+    grabando = !grabando;
+  }
 }
